@@ -1,9 +1,9 @@
-const cacheName = "F2M-KeeSafety_Walk-0.1.0";
+const cacheName = "F2M-KeeSafety_Dome-0.1.0";
 const contentToCache = [
-    "Build/Kee Products New.loader.js",
-    "Build/Kee Products New.framework.js",
-    "Build/Kee Products New.data",
-    "Build/Kee Products New.wasm",
+    "Build/Kee Dome.loader.js",
+    "Build/Kee Dome.framework.js",
+    "Build/Kee Dome.data",
+    "Build/Kee Dome.wasm",
     "TemplateData/style.css"
 
 ];

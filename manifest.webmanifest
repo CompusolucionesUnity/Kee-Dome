@@ -1,6 +1,6 @@
 {
-    "name": "KeeSafety_Walk",
-    "short_name": "KeeSafety_Walk",
+    "name": "KeeSafety_Dome",
+    "short_name": "KeeSafety_Dome",
     "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "#231F20",
